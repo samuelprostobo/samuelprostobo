@@ -1,3 +1,4 @@
+- 👋 Hi, I’m @samuelprostobo
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on open/new project
